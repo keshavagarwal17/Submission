@@ -1,7 +1,7 @@
-# offline
+# OffQuiz
 <h2>
           You got a quiz? Worried about poor internet connectivity? Don't worry
-          we got your covered !!!
+          we've got you covered !!!
         </h2>
         <p>
           Poor Internet connectivity due to various reasons can hamper the
@@ -16,7 +16,7 @@
         <p>
           OffQuiz can be considered to be an aid in the age of uncertain
           internet connectivity. OffQuiz is a competent assessment platform
-          which provides an secure offline environment to conduct multiple
+          which provides a secure offline environment to conduct multiple
           choice type quizzes.
         </p>       
         <h2>How Does it work?</h2>
@@ -31,11 +31,11 @@
               All the created quizzes can be viewed on the dashhboard.
             </li>
             <li>
-              Once the quiz is created the teacher can circulate the quiz within
+              Once the quiz is created, the teacher can circulate the quiz within
               an already created batch of students.
             </li>
             <li>
-              At the students end, all you require is a smartphone with incoming
+              At the students end, all you require is a smartphone with incoming and outgoing
               sms facility.
             </li>
             <li>
@@ -47,12 +47,8 @@
                ATTEMPT THE QUIZ. </b>
             </li>
             <li>
-              The Quiz Responses are encrypted and sent to our servers through
+              The Quiz Responses are sent to teacher's phone through
               sms.
-            </li>
-            <li>
-              Teacher can view the responses of all the student on our web
-              application.
             </li>
             </ul>
            <img align="center" src="images/overview.png" alt="overview"> </img>
