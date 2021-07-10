@@ -1,0 +1,35 @@
+{
+    "header": " You got a quiz? Worried about poor internet connectivity? Don't worry we got your covered !!!",
+    "description": "Poor Internet connectivity due to various reasons can hamper the performance of a potential candidate and ruin their entire hardwork. It also decreases the accuracy of judgement of one's skills and knowledge. Nowadays, during the global pandemic, the educational sector has migrated online and even the exams are being conducted online without considering that not every one can manage to get fast and secured internet connectivity.",
+    "sub-header": "What is OffQuiz",
+    "app-description": " OffQuiz can be considered to be an aid in the age of uncertain internet connectivity. OffQuiz is a competent assessment platform which provides an secure offline environment to conduct multiple choice type quizzes.",
+    "working": [
+        {
+            "point": "Teacher can use the web portal to form batches of students."
+        },
+        {
+            "point": "Quiz can be created on the web portal by the teacher."
+        },
+        {
+            "point": "All the created quizzes can be viewed on the dashhboard."
+        },
+        {
+            "point": "Once the quiz is created the teacher can circulate the quiz within an already created batch of students."
+        },
+        {
+            "point": "At the students end, all you require is a smartphone with incoming sms facility."
+        },
+        {
+            "point": "Students receive a encrypted message on their phone which the OffQuiz App decrypts and display the Quiz on screen."
+        },
+        {
+            "point": "INTERNET CONNECTION IS NOT REQUIRED AT THE STUDENTS' END TO ATTEMPT THE QUIZ."
+        },
+        {
+            "point": "The Quiz Responses are encrypted and sent to our servers through sms."
+        },
+        {
+            "point": "Teacher can view the responses of all the student on our web application."
+        }
+    ]
+}
